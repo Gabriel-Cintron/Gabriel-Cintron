@@ -1,7 +1,7 @@
 <!-- Header -->
 
 <h1 align = "center"> Welcome to my GitHub! </h1>
-<hr>
+
 <!-- Technologies -->
 
 <h2 align = "center"> Technologies: </h2>
@@ -42,7 +42,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" alt="Three.js Logo" />
 </p>
-<hr>
+
 <!-- Projects -->
 <h2 align = "center">Projects: </h2>
 
@@ -52,7 +52,7 @@
   </li>
 </ol>
 
-<hr>
+
 <h2 align = "center"> Contacts: </h2>
 
 <ol>
