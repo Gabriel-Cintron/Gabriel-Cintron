@@ -24,8 +24,8 @@ I'm a passionate software developer who enjoys building meaningful tools, learni
 ## 📈 GitHub Stats
 
 <!-- Replace your-username with your actual GitHub username -->
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=default)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gabriel-Cintron&show_icons=true&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel-Cintron&layout=compact)
 
 ---
 
