@@ -12,35 +12,35 @@
 <!-- python, javascript, typescript, java -->
 
 <p align = "center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" alt="Python" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" alt="TypeScript"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" alt="Java" />
+  <img src="assets/python-logo.svg" width="40" alt="Python" />
+  <img src="assets/javascript-logo.svg" width="40" alt="JavaScript"/>
+  <img src="assets/typescript-logo.svg" width="40" alt="TypeScript"/>
+  <img src="assets/java-logo.svg" width="40" alt="Java" />
 </p>
 
 <!-- git, docker, vscode -->
 
 <h3 align = "center"> 🔧 Tools & Platforms </h3>
 <p align = "center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" alt="VS Code"/>
+  <img src="assets/git-logo.svg" width="40" alt="Git"/>
+  <img src="assets/docker-logo.svg" width="40" alt="Docker"/>
+  <img src="assets/vscode-logo.svg" width="40" alt="VS Code"/>
 </p>
 
 <!-- sqlite, postgresql -->
 
 <h3 align = "center"> 🗄️ Databases </h3>
 <p align = "center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="SQLite"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
+  <img src="assets/sqlite-logo.svg" width="40" alt="SQLite"/>
+  <img src="assets/postgresql-logo.svg" width="40" alt="PostgreSQL"/>
 </p>
 
 <!-- reactjs, threejs -->
 
 <h3 align = "center"> 📚 Frameworks & Libraries </h3>
 <p align = "center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" width="40" alt="Three.js Logo" />
+  <img src="assets/react-logo.svg" width="40" alt="React"/>
+  <img src="assets/threejs-logo.svg" width="40" alt="Three.js Logo" />
 </p>
 
 <!-- Projects -->
